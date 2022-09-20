@@ -18,6 +18,7 @@ General rules:
 - If user decides to skip, user gets 0 points.
 
 GUI looks:
+
 ![image](https://user-images.githubusercontent.com/98497929/191381352-fd94b46e-0512-4a30-afdc-eb4ee80b81b1.png)
 ![image](https://user-images.githubusercontent.com/98497929/191381373-ceaba873-ac71-4c95-8a78-5a455c5c06dc.png)
 ![image](https://user-images.githubusercontent.com/98497929/191381409-4a9f5c1c-9d83-449e-a02f-0dee8efb3022.png)
